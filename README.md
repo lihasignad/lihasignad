@@ -102,8 +102,12 @@
 <div align="center">
   <h2>🐍 CONTRIBUTION ACTIVITY MATRIX</h2>
   
-  <!-- Live Real-time GitHub Contribution Chart (100% Instant & Reliable) -->
-  <img src="https://ghchart.rshah.org/ffffff/lihasignad" width="100%" alt="Sahil Dangi GitHub Contribution Chart" />
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lihasignad/lihasignad/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lihasignad/lihasignad/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  </picture>
 </div>
 
 <br/>
