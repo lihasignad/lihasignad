@@ -1,5 +1,5 @@
 <!-- ============================================================ -->
-<!--              MANGA NOIR / CARCOSA GITHUB PROFILE             -->
+<!--              MANGA NOIR / DEVELOPER PROFILE                  -->
 <!--              Theme: Monochrome Manga & Attack on Titan       -->
 <!--              Username: lihasignad (Sahil Dangi)              -->
 <!-- ============================================================ -->
@@ -12,7 +12,7 @@
 <!-- 2. DYNAMIC TYPING INTRODUCTION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=進撃+|+Keep+moving+forward+until+all+objectives+are+met;Architecting+distributed+high-throughput+systems;Machine+Learning+Pipelines+%26+Full-Stack+Platforms;Clearance+Level+4+%7C+Carcosa+Sovereign+Authority" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=進撃+|+Keep+moving+forward+until+all+goals+are+met;Full-Stack+Engineer+%7C+Problem+Solver;Building+Scalable+Web+Apps+%26+ML+Pipelines;Exploring+Cloud+Architecture+%26+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,40 +30,37 @@
   <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" /></a>
 </p>
 
-<!-- INKED MANGA DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
-</p>
+<!-- DIVIDER -->
+<hr style="border: 1px solid #333333;"/>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--       4. IDENTITY RECORD // DOSSIER & 3-COLUMN INFO          -->
+<!--       4. DEVELOPER DOSSIER & 3-COLUMN INFO CARDS             -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>🪪 IDENTITY RECORD // CLEARANCE LEVEL 4</h2>
+  <h2>⚡ ABOUT ME // SAHIL DANGI</h2>
 
-  <!-- MAIN DOSSIER CARD -->
+  <!-- MAIN PROFILE CARD -->
   <table border="1" bordercolor="#ffffff" width="100%">
     <tr>
-      <td width="50%" align="center" style="background-color: #000000; border: 1.5px solid #ffffff; padding: 12px;">
-        <!-- CITIZEN ID PHOTO -->
-        <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/ChatGPT%20Image%20Sep%201,%202026,%2011_07_37%20PM.png" width="100%" alt="Sahil Dangi Carcosa ID Card" style="border-radius: 6px; border: 1px solid #ffffff;" />
+      <td width="48%" align="center" style="background-color: #000000; border: 1.5px solid #ffffff; padding: 12px;">
+        <!-- PROFILE ID PHOTO -->
+        <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/ChatGPT%20Image%20Sep%201,%202026,%2011_07_37%20PM.png" width="100%" alt="Sahil Dangi Photo" style="border-radius: 6px; border: 1px solid #ffffff;" />
       </td>
-      <td width="50%" valign="middle" style="background-color: #000000; border: 1.5px solid #ffffff; padding: 18px; text-align: left; color: #ffffff;">
-        <h3 style="color: #ffffff; margin-top: 0; letter-spacing: 2px;">⚡ OPERATOR DOSSIER</h3>
+      <td width="52%" valign="middle" style="background-color: #000000; border: 1.5px solid #ffffff; padding: 18px; text-align: left; color: #ffffff;">
+        <h3 style="color: #ffffff; margin-top: 0; letter-spacing: 2px;">⚡ DEVELOPER OVERVIEW</h3>
         <p>
-          <b>NAME:</b> SAHIL DANGI<br/>
-          <b>AUTHORITY:</b> CARCOSA SOVEREIGN AUTHORITY<br/>
-          <b>IDENTITY:</b> SAD12072003<br/>
-          <b>CLEARANCE:</b> LEVEL 4 (CASUALTY BRANCH)<br/>
-          <b>STATUS:</b> 🟢 ACTIVE &amp; DEPLOYING
+          <b>NAME:</b> Sahil Dangi<br/>
+          <b>ROLE:</b> Full-Stack Developer &amp; Software Engineer<br/>
+          <b>LOCATION:</b> India 🇮🇳<br/>
+          <b>STATUS:</b> 🟢 Active &amp; Open to Collaboration
         </p>
         <hr style="border: 0.5px solid #ffffff;"/>
         <p>
-          🔭 <b>FOCUS:</b> Distributed Systems, Machine Learning &amp; Web Platforms<br/>
-          🧠 <b>CORE STACK:</b> Python, TypeScript, React, Node.js, C++, Docker<br/>
-          ⚡ <b>CREED:</b> <i>"Keep moving forward until the objective is achieved."</i>
+          🔭 <b>FOCUS:</b> Full-Stack Web Development, Data Systems &amp; Machine Learning<br/>
+          🧠 <b>CORE STACK:</b> Python, JavaScript, TypeScript, React, Node.js, C++<br/>
+          ⚡ <b>PHILOSOPHY:</b> <i>"Keep moving forward until the objective is achieved."</i>
         </p>
       </td>
     </tr>
@@ -71,31 +68,25 @@
 
   <br/>
 
-  <!-- 3-COLUMN INFO CARDS (MADHAV-STYLE TRIPLE CARDS) -->
+  <!-- 3-COLUMN INFO CARDS (MADHAV STYLE) -->
   <table border="1" bordercolor="#ffffff" width="100%">
     <tr>
-      <td width="33%" align="center" style="background-color: #050505; border: 1px solid #ffffff; padding: 14px; color: #ffffff;">
-        <h4>🏛️ AFFILIATION</h4>
-        <p style="font-size: 13px; color: #cccccc;">
-          Carcosa Sovereign Authority<br/>
-          Casualty Branch // Q1 D22/24<br/>
-          Special Operations &amp; Code Ops
+      <td width="33%" align="center" style="background-color: #050505; border: 1px solid #ffffff; padding: 16px; color: #ffffff;">
+        <h4>💻 WHAT I DO</h4>
+        <p style="font-size: 13px; color: #cccccc; line-height: 1.6;">
+          Developing responsive web applications, robust REST APIs, and scalable backend infrastructure.
         </p>
       </td>
-      <td width="33%" align="center" style="background-color: #050505; border: 1px solid #ffffff; padding: 14px; color: #ffffff;">
-        <h4>🎯 ACTIVE MISSION</h4>
-        <p style="font-size: 13px; color: #cccccc;">
-          High-throughput ML Engines<br/>
-          Distributed Cloud Pipelines<br/>
-          Autonomous Tool Architectures
+      <td width="33%" align="center" style="background-color: #050505; border: 1px solid #ffffff; padding: 16px; color: #ffffff;">
+        <h4>🎯 CURRENT FOCUS</h4>
+        <p style="font-size: 13px; color: #cccccc; line-height: 1.6;">
+          Deepening expertise in Machine Learning workflows, Distributed Architecture, and Cloud DevOps.
         </p>
       </td>
-      <td width="33%" align="center" style="background-color: #050505; border: 1px solid #ffffff; padding: 14px; color: #ffffff;">
-        <h4>⚔️ COMBAT DISCIPLINES</h4>
-        <p style="font-size: 13px; color: #cccccc;">
-          Full-Stack Web Engineering<br/>
-          Low-Latency APIs &amp; Microservices<br/>
-          Data Analytics &amp; Deep Learning
+      <td width="33%" align="center" style="background-color: #050505; border: 1px solid #ffffff; padding: 16px; color: #ffffff;">
+        <h4>🤝 COLLABORATION</h4>
+        <p style="font-size: 13px; color: #cccccc; line-height: 1.6;">
+          Open to open-source contributions, hackathons, and collaborating on high-impact software projects.
         </p>
       </td>
     </tr>
@@ -105,10 +96,8 @@
 
 <br/>
 
-<!-- INKED MANGA DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
-</p>
+<!-- DIVIDER -->
+<hr style="border: 1px solid #333333;"/>
 
 <br/>
 
@@ -122,18 +111,16 @@
 
 <br/>
 
-<!-- INKED MANGA DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
-</p>
+<!-- DIVIDER -->
+<hr style="border: 1px solid #333333;"/>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--             6. SKILLS & ARSENAL (10 DOMAIN CATEGORIES)       -->
+<!--             6. SKILLS & ARSENAL (DOMAIN CATEGORIES)          -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>⚔️ TECH STACK &amp; DOMAIN ARSENAL</h2>
+  <h2>⚔️ TECH STACK &amp; ARSENAL</h2>
 
   <p><b>LANGUAGES &amp; RUNTIMES</b></p>
   <p>
@@ -197,10 +184,8 @@
 
 <br/>
 
-<!-- INKED MANGA DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
-</p>
+<!-- DIVIDER -->
+<hr style="border: 1px solid #333333;"/>
 
 <br/>
 
@@ -208,7 +193,7 @@
 <!--             7. FEATURED SPOTLIGHT PROJECTS                   -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>🚀 FEATURED OPERATIONS &amp; REPOSITORIES</h2>
+  <h2>🚀 FEATURED PROJECTS &amp; REPOSITORIES</h2>
 
   <!-- PROJECT 1: Kaggriculture -->
   <table width="100%" border="1" bordercolor="#ffffff">
@@ -216,7 +201,7 @@
       <td style="background-color: #000000; border: 1.5px solid #ffffff; padding: 20px; text-align: left;">
         <h3 style="color: #ffffff; margin-top: 0;">🛡️ KAGGRLICULTURE — SMART AGRO ANALYTICS</h3>
         <p style="color: #cccccc;">
-          High-performance machine learning suite and automated data pipeline for precision crop recommendation, soil disease analysis, and yield optimization models.
+          Machine learning suite and data analytics pipeline for crop recommendation, soil quality assessment, and agricultural yield prediction models.
         </p>
         <p>
           <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"/>
@@ -238,13 +223,13 @@
 
   <br/>
 
-  <!-- PROJECT 2: Core Distributed Architecture -->
+  <!-- PROJECT 2: High-throughput Architecture -->
   <table width="100%" border="1" bordercolor="#ffffff">
     <tr>
       <td style="background-color: #000000; border: 1.5px solid #ffffff; padding: 20px; text-align: left;">
-        <h3 style="color: #ffffff; margin-top: 0;">⚡ HIGH-THROUGHPUT SYSTEM ARCHITECTURE</h3>
+        <h3 style="color: #ffffff; margin-top: 0;">⚡ HIGH-PERFORMANCE BACKEND PLATFORMS</h3>
         <p style="color: #cccccc;">
-          Scalable event-driven backend services featuring asynchronous message queues, distributed caching with Redis, and containerized Docker deployments.
+          Scalable backend services featuring asynchronous message queues, distributed Redis caching, and containerized Docker deployments.
         </p>
         <p>
           <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js"/>
@@ -265,15 +250,13 @@
 
 <br/>
 
-<!-- INKED MANGA DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
-</p>
+<!-- DIVIDER -->
+<hr style="border: 1px solid #333333;"/>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--          8. ⚔️ DEVELOPER MANGA COMIC STRIP (6 PANELS)        -->
+<!--          8. ⚔️ DEVELOPER MANGA COMIC STRIP                   -->
 <!-- ============================================================ -->
 <div align="center">
   <h2>📜 DEV CHRONICLES // THE 80,000 LINE TYPO</h2>
@@ -283,10 +266,8 @@
 
 <br/>
 
-<!-- INKED MANGA DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
-</p>
+<!-- DIVIDER -->
+<hr style="border: 1px solid #333333;"/>
 
 <br/>
 
@@ -294,7 +275,7 @@
 <!--               9. COMMAND TELEMETRY & METRICS                 -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>📊 COMMAND TELEMETRY &amp; STATS</h2>
+  <h2>📊 TELEMETRY &amp; STATS</h2>
 
   <!-- Stats & Streak in High-Contrast Monochrome Dark Theme -->
   <p align="center">
@@ -311,10 +292,8 @@
 
 <br/>
 
-<!-- INKED MANGA DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
-</p>
+<!-- DIVIDER -->
+<hr style="border: 1px solid #333333;"/>
 
 <br/>
 
@@ -333,10 +312,8 @@
 
 <br/>
 
-<!-- INKED MANGA DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
-</p>
+<!-- DIVIDER -->
+<hr style="border: 1px solid #333333;"/>
 
 <br/>
 
