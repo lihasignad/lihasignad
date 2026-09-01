@@ -97,11 +97,22 @@
 <br/>
 
 <!-- ============================================================ -->
-<!--                  5. COMMIT SNAKE ANIMATION                   -->
+<!--                  5. CONTRIBUTION ACTIVITY MATRIX             -->
 <!-- ============================================================ -->
 <div align="center">
   <h2>🐍 CONTRIBUTION ACTIVITY MATRIX</h2>
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  
+  <!-- Real-time Activity Graph (Works Immediately) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lihasignad&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+  <br/><br/>
+
+  <!-- Contribution Snake Animation (Auto-updates via Actions) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lihasignad/lihasignad/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lihasignad/lihasignad/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  </picture>
 </div>
 
 <br/>
