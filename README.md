@@ -4,12 +4,9 @@
 <!--              Username: lihasignad (Sahil Dangi)              -->
 <!-- ============================================================ -->
 
-<!-- 1. TOP ANIMATED VIDEO / HEADER BANNER -->
+<!-- 1. TOP ANIMATED VIDEO / HEADER BANNER (AUTOPLAYING GIF) -->
 <p align="center">
-  <video src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/pin.mp4" width="100%" autoplay loop muted playsinline></video>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/pin.gif" width="100%" alt="Header Banner Video Animation" onerror="this.src='https://raw.githubusercontent.com/lihasignad/lihasignad/main/NMRL.gif'" />
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/NMRL.gif" width="100%" alt="Header Video Animation" />
 </p>
 
 <!-- 2. DYNAMIC TYPING INTRODUCTION -->
