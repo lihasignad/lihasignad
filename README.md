@@ -268,7 +268,7 @@
 <!--          7. DEVELOPER MANGA COMIC STRIP                      -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>✦ DEV CHRONICLES // THE 80,000 LINE TYPO ✦</h2>
+  <h2>✦CRACKED✦</h2>
 
   <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/manga-panel.jpg" width="100%" alt="Developer Manga Comic Panel" style="border-radius: 6px; border: 2px solid #ffffff; box-shadow: 0 10px 30px rgba(0,0,0,0.95);" />
 </div>
