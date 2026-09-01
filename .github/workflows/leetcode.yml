@@ -1,0 +1,26 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch LeetCode Stats
+        run: |
+          mkdir -p assets/leetcode
+          curl -s "https://leetcard.jacoblin.cool/9lycantropeee?theme=dark&font=Fira%20Code&ext=heatmap&border=1&radius=6" -o assets/leetcode/leetcode-card.svg
+
+      - name: Commit and Push LeetCode Card
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/leetcode/leetcode-card.svg
+          git commit -m "chore: automated leetcode stats update for 9lycantropeee" || exit 0
+          git push
