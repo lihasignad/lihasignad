@@ -1,0 +1,26 @@
+name: Update Codeforces Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-codeforces:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Codeforces Card
+        run: |
+          mkdir -p assets/codeforces
+          curl -s "https://codeforces-readme-stats.vercel.app/api/card?username=9lycantropeee&theme=dark" -o assets/codeforces/codeforces-card.svg
+
+      - name: Commit and Push Codeforces Card
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/codeforces/codeforces-card.svg
+          git commit -m "chore: automated codeforces stats update for 9lycantropeee" || exit 0
+          git push
