@@ -4,9 +4,9 @@
 <!--              Username: lihasignad (Sahil Dangi)              -->
 <!-- ============================================================ -->
 
-<!-- 1. TOP ANIMATED HEADER (EREN YEAGER OBTAINING FREEDOM GIF) -->
+<!-- 1. TOP ANIMATED HEADER (CUSTOM EREN YEAGER FREEDOM GIF) -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/ducgZ6doiKEAAAAC/osisbbsbsbsbsbsbbsbs-obtaining-freedom.gif" width="100%" alt="Eren Yeager Obtaining Freedom Animation" />
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/header-freedom-ezgif.com-add-image.gif" width="100%" alt="Header Freedom Animation" />
 </p>
 
 
