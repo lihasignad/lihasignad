@@ -4,9 +4,12 @@
 <!--              Username: lihasignad (Sahil Dangi)              -->
 <!-- ============================================================ -->
 
-<!-- 1. TOP MANGA LANDSCAPE BANNER -->
+<!-- 1. TOP ANIMATED VIDEO / HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/header-banner.svg" width="100%" alt="Manga Header Banner" />
+  <video src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/pin.mp4" width="100%" autoplay loop muted playsinline></video>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/pin.gif" width="100%" alt="Header Banner Video Animation" onerror="this.src='https://raw.githubusercontent.com/lihasignad/lihasignad/main/NMRL.gif'" />
 </p>
 
 <!-- 2. DYNAMIC TYPING INTRODUCTION -->
