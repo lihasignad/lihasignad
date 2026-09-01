@@ -15,9 +15,11 @@
   <sub><b>✦ Engineering Scalable Software &amp; Intelligent Architecture ✦</b></sub>
 </p>
 
-<!-- 2. SOCIAL MEDIA LINKS (MONOCHROME) -->
+<!-- 2. PROFILES & SOCIAL LINKS (MONOCHROME) -->
 <p align="center">
   <a href="https://github.com/lihasignad" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/9lycantropeee/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=ffffff" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/9lycantropeee" target="_blank"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=ffffff" alt="Codeforces" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=ffffff" alt="Twitter" /></a>
   <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" /></a>
@@ -34,7 +36,7 @@
 <!--       3. DEVELOPER PROFILE & 3-COLUMN INFO CARDS             -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>✦ ABOUT ME ✦</h2>
+  <h2>✦ ABOUT ME // SAHIL DANGI ✦</h2>
 
   <!-- MAIN PROFILE CARD -->
   <table border="1" bordercolor="#ffffff" width="100%">
@@ -268,7 +270,7 @@
 <!--          7. DEVELOPER MANGA COMIC STRIP                      -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>✦CRACKED✦</h2>
+  <h2>✦ DEV CHRONICLES // THE 80,000 LINE TYPO ✦</h2>
 
   <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/manga-panel.jpg" width="100%" alt="Developer Manga Comic Panel" style="border-radius: 6px; border: 2px solid #ffffff; box-shadow: 0 10px 30px rgba(0,0,0,0.95);" />
 </div>
@@ -292,6 +294,18 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lihasignad&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=e0e0e0&border_color=ffffff" height="175" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lihasignad&theme=dark&hide_border=false&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=ffffff" height="175" alt="GitHub Streak" />
+  </p>
+
+  <br/>
+
+  <!-- Competitive Programming Telemetry Cards -->
+  <p align="center">
+    <a href="https://leetcode.com/u/9lycantropeee/" target="_blank">
+      <img src="https://leetcard.jacoblin.cool/9lycantropeee?theme=dark&font=Fira%20Code&ext=heatmap&border=1&radius=6" height="185" alt="LeetCode Stats" />
+    </a>
+    <a href="https://codeforces.com/profile/9lycantropeee" target="_blank">
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=9lycantropeee&theme=dark" height="185" alt="Codeforces Stats" />
+    </a>
   </p>
 
   <!-- Top Languages & Trophies in Monochrome -->
