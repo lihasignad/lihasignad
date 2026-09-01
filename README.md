@@ -34,7 +34,7 @@
 <!--       3. DEVELOPER PROFILE & 3-COLUMN INFO CARDS             -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>✦ ABOUT ME // SAHIL DANGI ✦</h2>
+  <h2>✦ ABOUT ME ✦</h2>
 
   <!-- MAIN PROFILE CARD -->
   <table border="1" bordercolor="#ffffff" width="100%">
