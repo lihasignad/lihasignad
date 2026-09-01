@@ -6,26 +6,25 @@
 
 <div align="center">
 
-  <!-- Header Banner with Integrated Cyber HUD -->
-  <img src="header-banner.svg" alt="Header Banner" width="100%"/>
+  <!-- TOP BANNER / ANIMATED GRADIENT & TWINKLE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=200&section=header&text=SAHIL%20DANGI&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=SYS.ID%20%2F%2F%20CARCOSA-AUT-09%20%7C%20CLEARANCE%20LEVEL%204&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
 
-  <br/><br/>
+  <br/>
 
-  <!-- Dynamic Typing SVG -->
+  <!-- DYNAMIC TYPING SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+command+center;Building+high-performance+scalable+systems;Where+deep+logic+meets+modern+craftsmanship;Clearance+Level+4+%7C+Casualty+Branch" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Quote Section -->
+  <!-- QUOTE SECTION -->
   <p align="center">
     <i>"Keep moving forward until the objective is achieved."</i><br/>
     <sub><b>✦ Crafting robust architecture &amp; high-impact software ✦</b></sub>
   </p>
 
-  <!-- Section Divider -->
-  <img src="divider.svg" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,13,24&height=2&section=header" width="80%" alt="Divider"/>
 
 </div>
 
@@ -38,8 +37,8 @@
   <table border="0">
     <tr>
       <td width="55%" align="center" style="border: none;">
-        <!-- CITIZEN ID CARD -->
-        <img src="./profile-card.png" width="100%" alt="Sahil Dangi Carcosa ID Card" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,240,255,0.15);" />
+        <!-- CITIZEN ID CARD (Loads directly from repo) -->
+        <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/ChatGPT%20Image%20Sep%201,%202026,%2011_07_37%20PM.png" width="100%" alt="Sahil Dangi Carcosa ID Card" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,240,255,0.15);" />
       </td>
       <td width="45%" valign="middle" style="border: none;">
         <h3>⚡ Operator Overview</h3>
@@ -65,7 +64,7 @@
 <br/>
 
 <div align="center">
-  <img src="divider.svg" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,13,24&height=2&section=header" width="80%" alt="Divider"/>
 </div>
 
 <br/>
@@ -110,7 +109,7 @@
 <br/>
 
 <div align="center">
-  <img src="divider.svg" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,13,24&height=2&section=header" width="80%" alt="Divider"/>
 </div>
 
 <br/>
@@ -134,7 +133,7 @@
 <br/>
 
 <div align="center">
-  <img src="divider.svg" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,13,24&height=2&section=header" width="80%" alt="Divider"/>
 </div>
 
 <br/>
@@ -148,7 +147,7 @@
 <br/>
 
 <div align="center">
-  <img src="divider.svg" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,13,24&height=2&section=header" width="80%" alt="Divider"/>
 </div>
 
 <br/>
@@ -168,7 +167,7 @@
 <br/>
 
 <div align="center">
-  <img src="divider.svg" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,13,24&height=2&section=header" width="80%" alt="Divider"/>
 </div>
 
 <br/>
