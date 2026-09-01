@@ -9,15 +9,13 @@
   <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/header-freedom-ezgif.com-add-image.gif" width="100%" alt="Header Freedom Animation" />
 </p>
 
-
-
 <p align="center">
   <b>「 心臓を捧げよ 」</b><br/>
   <i>"If you win, you live. If you lose, you die. If you don't fight, you can't win."</i><br/>
   <sub><b>✦ Engineering Scalable Software &amp; Intelligent Architecture ✦</b></sub>
 </p>
 
-<!-- 3. SOCIAL MEDIA LINKS (MONOCHROME) -->
+<!-- 2. SOCIAL MEDIA LINKS (MONOCHROME) -->
 <p align="center">
   <a href="https://github.com/lihasignad" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
@@ -25,16 +23,18 @@
   <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" /></a>
 </p>
 
-<!-- DIVIDER -->
-<hr style="border: 1px solid #333333;"/>
+<!-- ANIMATED MONOCHROME PULSE DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,0&height=2&section=header" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--       4. DEVELOPER DOSSIER & 3-COLUMN INFO CARDS             -->
+<!--       3. DEVELOPER PROFILE & 3-COLUMN INFO CARDS             -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>⚡ ABOUT ME // SAHIL DANGI</h2>
+  <h2>✦ ABOUT ME // SAHIL DANGI ✦</h2>
 
   <!-- MAIN PROFILE CARD -->
   <table border="1" bordercolor="#ffffff" width="100%">
@@ -44,18 +44,18 @@
         <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/ChatGPT%20Image%20Sep%201,%202026,%2011_07_37%20PM.png" width="100%" alt="Sahil Dangi Photo" style="border-radius: 6px; border: 1px solid #ffffff;" />
       </td>
       <td width="52%" valign="middle" style="background-color: #000000; border: 1.5px solid #ffffff; padding: 18px; text-align: left; color: #ffffff;">
-        <h3 style="color: #ffffff; margin-top: 0; letter-spacing: 2px;">⚡ DEVELOPER OVERVIEW</h3>
+        <h3 style="color: #ffffff; margin-top: 0; letter-spacing: 2px;">✦ DEVELOPER OVERVIEW</h3>
         <p>
           <b>NAME:</b> Sahil Dangi<br/>
           <b>ROLE:</b> Full-Stack Developer &amp; Software Engineer<br/>
-          <b>LOCATION:</b> India 🇮🇳<br/>
-          <b>STATUS:</b> 🟢 Active &amp; Open to Collaboration
+          <b>LOCATION:</b> India<br/>
+          <b>STATUS:</b> [ ACTIVE ] Open to Collaboration
         </p>
         <hr style="border: 0.5px solid #ffffff;"/>
         <p>
-          🔭 <b>FOCUS:</b> Full-Stack Web Development, Data Systems &amp; Machine Learning<br/>
-          🧠 <b>CORE STACK:</b> Python, JavaScript, TypeScript, React, Node.js, C++<br/>
-          ⚡ <b>PHILOSOPHY:</b> <i>"Keep moving forward until the objective is achieved."</i>
+          ▸ <b>FOCUS:</b> Full-Stack Web Development, Data Systems &amp; Machine Learning<br/>
+          ▸ <b>CORE STACK:</b> Python, JavaScript, TypeScript, React, Node.js, C++<br/>
+          ▸ <b>PHILOSOPHY:</b> <i>"Keep moving forward until the objective is achieved."</i>
         </p>
       </td>
     </tr>
@@ -63,23 +63,23 @@
 
   <br/>
 
-  <!-- 3-COLUMN INFO CARDS (MADHAV STYLE) -->
+  <!-- 3-COLUMN INFO CARDS (CLEAN & MONOCHROME) -->
   <table border="1" bordercolor="#ffffff" width="100%">
     <tr>
       <td width="33%" align="center" style="background-color: #050505; border: 1px solid #ffffff; padding: 16px; color: #ffffff;">
-        <h4>💻 WHAT I DO</h4>
+        <h4>▸ WHAT I DO</h4>
         <p style="font-size: 13px; color: #cccccc; line-height: 1.6;">
           Developing responsive web applications, robust REST APIs, and scalable backend infrastructure.
         </p>
       </td>
       <td width="33%" align="center" style="background-color: #050505; border: 1px solid #ffffff; padding: 16px; color: #ffffff;">
-        <h4>🎯 CURRENT FOCUS</h4>
+        <h4>▸ CURRENT FOCUS</h4>
         <p style="font-size: 13px; color: #cccccc; line-height: 1.6;">
           Deepening expertise in Machine Learning workflows, Distributed Architecture, and Cloud DevOps.
         </p>
       </td>
       <td width="33%" align="center" style="background-color: #050505; border: 1px solid #ffffff; padding: 16px; color: #ffffff;">
-        <h4>🤝 COLLABORATION</h4>
+        <h4>▸ COLLABORATION</h4>
         <p style="font-size: 13px; color: #cccccc; line-height: 1.6;">
           Open to open-source contributions, hackathons, and collaborating on high-impact software projects.
         </p>
@@ -91,37 +91,41 @@
 
 <br/>
 
-<!-- DIVIDER -->
-<hr style="border: 1px solid #333333;"/>
+<!-- ANIMATED MONOCHROME PULSE DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,0&height=2&section=header" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--                  5. CONTRIBUTION ACTIVITY MATRIX             -->
+<!--                  4. CONTRIBUTION ACTIVITY MATRIX             -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>🐍 CONTRIBUTION ACTIVITY MATRIX</h2>
+  <h2>✦ CONTRIBUTION ACTIVITY MATRIX ✦</h2>
   
   <!-- Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lihasignad/lihasignad/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lihasignad/lihasignad/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+    <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
   </picture>
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
-<hr style="border: 1px solid #333333;"/>
+<!-- ANIMATED MONOCHROME PULSE DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,0&height=2&section=header" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--             6. SKILLS & ARSENAL (DOMAIN CATEGORIES)          -->
+<!--             5. SKILLS & ARSENAL (DOMAIN CATEGORIES)          -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>⚔️ TECH STACK &amp; ARSENAL</h2>
+  <h2>✦ TECH STACK &amp; ARSENAL ✦</h2>
 
   <p><b>LANGUAGES &amp; RUNTIMES</b></p>
   <p>
@@ -185,22 +189,24 @@
 
 <br/>
 
-<!-- DIVIDER -->
-<hr style="border: 1px solid #333333;"/>
+<!-- ANIMATED MONOCHROME PULSE DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,0&height=2&section=header" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--             7. FEATURED SPOTLIGHT PROJECTS                   -->
+<!--             6. FEATURED SPOTLIGHT PROJECTS                   -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>🚀 FEATURED PROJECTS &amp; REPOSITORIES</h2>
+  <h2>✦ FEATURED PROJECTS &amp; OPERATIONS ✦</h2>
 
   <!-- PROJECT 1: Kaggriculture -->
   <table width="100%" border="1" bordercolor="#ffffff">
     <tr>
       <td style="background-color: #000000; border: 1.5px solid #ffffff; padding: 20px; text-align: left;">
-        <h3 style="color: #ffffff; margin-top: 0;">🛡️ KAGGRLICULTURE — SMART AGRO ANALYTICS</h3>
+        <h3 style="color: #ffffff; margin-top: 0;">▸ KAGGRLICULTURE — SMART AGRO ANALYTICS</h3>
         <p style="color: #cccccc;">
           Machine learning suite and data analytics pipeline for crop recommendation, soil quality assessment, and agricultural yield prediction models.
         </p>
@@ -228,7 +234,7 @@
   <table width="100%" border="1" bordercolor="#ffffff">
     <tr>
       <td style="background-color: #000000; border: 1.5px solid #ffffff; padding: 20px; text-align: left;">
-        <h3 style="color: #ffffff; margin-top: 0;">⚡ HIGH-PERFORMANCE BACKEND PLATFORMS</h3>
+        <h3 style="color: #ffffff; margin-top: 0;">▸ HIGH-PERFORMANCE BACKEND PLATFORMS</h3>
         <p style="color: #cccccc;">
           Scalable backend services featuring asynchronous message queues, distributed Redis caching, and containerized Docker deployments.
         </p>
@@ -251,32 +257,36 @@
 
 <br/>
 
-<!-- DIVIDER -->
-<hr style="border: 1px solid #333333;"/>
+<!-- ANIMATED MONOCHROME PULSE DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,0&height=2&section=header" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--          8. ⚔️ DEVELOPER MANGA COMIC STRIP                   -->
+<!--          7. DEVELOPER MANGA COMIC STRIP                      -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>📜 DEV CHRONICLES // THE 80,000 LINE TYPO</h2>
+  <h2>✦ DEV CHRONICLES // THE 80,000 LINE TYPO ✦</h2>
 
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/manga-panel.jpg" width="100%" alt="Developer Manga Comic Panel - Eren Yeager Merge Request" style="border-radius: 6px; border: 2px solid #ffffff; box-shadow: 0 10px 30px rgba(0,0,0,0.95);" />
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/manga-panel.jpg" width="100%" alt="Developer Manga Comic Panel" style="border-radius: 6px; border: 2px solid #ffffff; box-shadow: 0 10px 30px rgba(0,0,0,0.95);" />
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
-<hr style="border: 1px solid #333333;"/>
+<!-- ANIMATED MONOCHROME PULSE DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,0&height=2&section=header" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--               9. COMMAND TELEMETRY & METRICS                 -->
+<!--               8. COMMAND TELEMETRY & METRICS                 -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>📊 TELEMETRY &amp; STATS</h2>
+  <h2>✦ TELEMETRY &amp; STATS ✦</h2>
 
   <!-- Stats & Streak in High-Contrast Monochrome Dark Theme -->
   <p align="center">
@@ -293,16 +303,18 @@
 
 <br/>
 
-<!-- DIVIDER -->
-<hr style="border: 1px solid #333333;"/>
+<!-- ANIMATED MONOCHROME PULSE DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,0&height=2&section=header" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--               10. 🔥 3D CONTRIBUTION CALENDAR                -->
+<!--               9. 3D CONTRIBUTION CALENDAR                    -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>🔥 3D CONTRIBUTION CALENDAR</h2>
+  <h2>✦ 3D CONTRIBUTION CALENDAR ✦</h2>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lihasignad/lihasignad/main/profile-3d-contrib/profile-night-view.svg">
@@ -313,13 +325,15 @@
 
 <br/>
 
-<!-- DIVIDER -->
-<hr style="border: 1px solid #333333;"/>
+<!-- ANIMATED MONOCHROME PULSE DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,0&height=2&section=header" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--               11. FOOTER BANNER & VISITOR STATS              -->
+<!--               10. FOOTER BANNER & VISITOR STATS              -->
 <!-- ============================================================ -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/footer-banner.svg" width="100%" alt="Footer Banner"/>
