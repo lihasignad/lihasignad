@@ -1,8 +1,11 @@
 <!-- ============================================================ -->
-<!--                     HEADER / MAIN BANNER                     -->
+<!--              MANGA MONOCHROME / CARCOSA GITHUB PROFILE       -->
+<!--              Theme: Manga Inked Black & White (Noir)         -->
+<!--              Username: lihasignad (Sahil Dangi)              -->
 <!-- ============================================================ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=SAHIL%20DANGI&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=SYS.ID%20%2F%2F%20CARCOSA-AUT-09%20%7C%20CLEARANCE%20LEVEL%204&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Main Banner" />
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/header-banner.svg" width="100%" alt="Manga Header Banner" />
 </p>
 
 <!-- ============================================================ -->
@@ -10,29 +13,30 @@
 <!-- ============================================================ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+command+center;Building+high-performance+scalable+systems;Where+deep+logic+meets+modern+craftsmanship;Clearance+Level+4+%7C+Casualty+Branch" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=進撃+|+Keep+moving+forward+until+all+goals+are+met;Architecting+distributed+high-throughput+systems;Machine+Learning+Pipelines+%26+Full-Stack+Platforms;Clearance+Level+4+%7C+Carcosa+Authority" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <i>"Keep moving forward until the objective is achieved."</i><br/>
-  <sub><b>✦ Crafting robust architecture &amp; high-impact software ✦</b></sub>
+  <b>「 心臓を捧げよ 」</b><br/>
+  <i>"If you win, you live. If you lose, you die. If you don't fight, you can't win."</i><br/>
+  <sub><b>✦ Engineering Scalable Software &amp; Intelligent Architecture ✦</b></sub>
 </p>
 
 <!-- ============================================================ -->
 <!--                      SOCIAL MEDIA LINKS                      -->
 <!-- ============================================================ -->
 <p align="center">
-  <a href="https://github.com/lihasignad" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f0ff" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00f0ff" alt="Twitter" /></a>
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00f0ff" alt="Gmail" /></a>
+  <a href="https://github.com/lihasignad" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=ffffff" alt="Twitter" /></a>
+  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" /></a>
 </p>
 
-<!-- Animated Glowing Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Divider" width="100%"/>
-</div>
+<!-- Manga Inked Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
@@ -40,28 +44,28 @@
 <!--                 IDENTITY RECORD // CITIZEN CARD              -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>🪪 Identity Record // Clearance Level 4</h2>
+  <h2>🪪 IDENTITY RECORD // CLEARANCE LEVEL 4</h2>
 
-  <table border="0">
+  <table border="1" bordercolor="#ffffff">
     <tr>
-      <td width="55%" align="center" style="border: none;">
+      <td width="55%" align="center" style="background-color: #000000; border: 1.5px solid #ffffff; padding: 10px;">
         <!-- CITIZEN ID CARD -->
-        <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/ChatGPT%20Image%20Sep%201,%202026,%2011_07_37%20PM.png" width="100%" alt="Sahil Dangi Carcosa ID Card" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 240, 255, 0.2);" />
+        <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/ChatGPT%20Image%20Sep%201,%202026,%2011_07_37%20PM.png" width="100%" alt="Sahil Dangi Carcosa ID Card" style="border-radius: 6px; border: 1px solid #ffffff;" />
       </td>
-      <td width="45%" valign="middle" style="border: none; text-align: left;">
-        <h3>⚡ Operator Overview</h3>
+      <td width="45%" valign="middle" style="background-color: #000000; border: 1.5px solid #ffffff; padding: 18px; text-align: left; color: #ffffff;">
+        <h3 style="color: #ffffff; margin-top: 0;">⚡ OPERATOR DOSSIER</h3>
         <p>
-          <b>Name:</b> Sahil Dangi<br/>
-          <b>Authority:</b> Carcosa Sovereign Authority<br/>
-          <b>Clearance:</b> Level 4 (Casualty Branch)<br/>
-          <b>Status:</b> 🟢 Active &amp; Deploying Solutions
+          <b>NAME:</b> SAHIL DANGI<br/>
+          <b>AUTHORITY:</b> CARCOSA SOVEREIGN AUTHORITY<br/>
+          <b>CLEARANCE:</b> LEVEL 4 (CASUALTY BRANCH)<br/>
+          <b>STATUS:</b> 🟢 ACTIVE &amp; DEPLOYED
         </p>
-        <hr style="border: 0.5px solid #21262d;"/>
+        <hr style="border: 0.5px solid #ffffff;"/>
         <p>
-          🔭 <b>Focus:</b> Distributed Systems, Machine Learning &amp; Web Platforms<br/>
-          🧠 <b>Exploring:</b> Scalable Cloud Infra, AI Pipelines &amp; Low-Latency APIs<br/>
-          💬 <b>Ask me about:</b> Python, JavaScript, React, Node.js, System Architecture<br/>
-          ⚡ <b>Philosophy:</b> <i>"Move forward until the objective is achieved."</i>
+          🔭 <b>FOCUS:</b> Distributed Systems, Machine Learning &amp; Web Platforms<br/>
+          🧠 <b>RESEARCH:</b> Scalable Cloud Infra, AI Pipelines &amp; Low-Latency APIs<br/>
+          💬 <b>STACK:</b> Python, TypeScript, React, Node.js, C++<br/>
+          ⚡ <b>CREED:</b> <i>"Move forward until the objective is achieved."</i>
         </p>
       </td>
     </tr>
@@ -70,10 +74,32 @@
 
 <br/>
 
-<!-- Animated Glowing Divider -->
+<!-- Manga Inked Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
+</p>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                  🔥 3D CONTRIBUTION CALENDAR                 -->
+<!-- ============================================================ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Divider" width="100%"/>
+  <h2>🔥 3D CONTRIBUTION CALENDAR</h2>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lihasignad/lihasignad/main/profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lihasignad/lihasignad/main/profile-3d-contrib/profile-night-view.svg">
+    <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" width="100%" />
+  </picture>
 </div>
+
+<br/>
+
+<!-- Manga Inked Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
@@ -81,16 +107,16 @@
 <!--                    COMMIT SNAKE ANIMATION                    -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>🐍 Contribution Matrix</h2>
+  <h2>🐍 CONTRIBUTION ACTIVITY MATRIX</h2>
   <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </div>
 
 <br/>
 
-<!-- Animated Glowing Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Divider" width="100%"/>
-</div>
+<!-- Manga Inked Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
@@ -98,55 +124,55 @@
 <!--                        TECH STACK / ARSENAL                  -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>⚔️ Tech Stack &amp; Arsenal</h2>
+  <h2>⚔️ TECH STACK &amp; ARSENAL</h2>
 
   <!-- Languages -->
-  <p><b>Languages</b></p>
+  <p><b>LANGUAGES</b></p>
   <p>
-    <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00f0ff" alt="Python"/>
-    <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00f0ff" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00f0ff" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00f0ff" alt="C++"/>
-    <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00f0ff" alt="C"/>
-    <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=00f0ff" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"/>
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" alt="C++"/>
+    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ffffff" alt="C"/>
+    <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQL"/>
   </p>
 
   <!-- Frameworks & UI -->
-  <p><b>Frontend &amp; Frameworks</b></p>
+  <p><b>FRAMEWORKS &amp; BACKEND</b></p>
   <p>
-    <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00f0ff" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00f0ff" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00f0ff" alt="TailwindCSS"/>
-    <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00f0ff" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=00f0ff" alt="Express"/>
+    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="TailwindCSS"/>
+    <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ffffff" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express"/>
   </p>
 
   <!-- Databases, Cloud & DevOps -->
-  <p><b>Databases, Cloud &amp; DevOps</b></p>
+  <p><b>DATABASES, CLOUD &amp; TOOLS</b></p>
   <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00f0ff" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00f0ff" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=00f0ff" alt="Redis"/>
-    <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00f0ff" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00f0ff" alt="Git"/>
-    <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00f0ff" alt="Linux"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=ffffff" alt="Redis"/>
+    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git"/>
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux"/>
   </p>
 
   <br/>
 
-  <!-- Interactive Skill Icons Grid -->
+  <!-- Interactive Skill Icons Grid (Dark Theme) -->
   <p>
-    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,react,nextjs,tailwind,nodejs,fastapi,postgres,mongodb,redis,docker,git,linux,aws" alt="Skillicons Arsenal" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,react,nextjs,tailwind,nodejs,fastapi,postgres,mongodb,redis,docker,git,linux,aws&theme=dark" alt="Skillicons Arsenal" />
   </p>
 </div>
 
 <br/>
 
-<!-- Animated Glowing Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Divider" width="100%"/>
-</div>
+<!-- Manga Inked Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
@@ -154,50 +180,87 @@
 <!--                 COMMAND TELEMETRY & STATS                    -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>📊 Command Telemetry &amp; Stats</h2>
+  <h2>📊 COMMAND TELEMETRY &amp; STATS</h2>
 
-  <!-- Stats & Streak -->
+  <!-- Stats & Streak in High-Contrast Monochrome Dark Theme -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lihasignad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" height="175" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lihasignad&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" height="175" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lihasignad&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=e0e0e0&border_color=ffffff" height="175" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lihasignad&theme=dark&hide_border=false&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=ffffff" height="175" alt="GitHub Streak" />
   </p>
 
-  <!-- Top Languages & Trophies -->
+  <!-- Top Languages & Trophies in Monochrome -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihasignad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" height="175" alt="Top Languages" />
-    <img src="https://github-profile-trophy.vercel.app/?username=lihasignad&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" height="175" alt="GitHub Trophies" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihasignad&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=e0e0e0&border_color=ffffff" height="175" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lihasignad&theme=darkhub&no-frame=false&margin_w=4" height="175" alt="GitHub Trophies" />
   </p>
 </div>
 
 <br/>
 
-<!-- Animated Glowing Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Divider" width="100%"/>
-</div>
+<!-- Manga Inked Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--                 FEATURED DEPLOYMENTS & PROJECTS              -->
+<!--                 FEATURED DEPLOYMENTS & SPOTLIGHT             -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>🚀 Featured Deployments &amp; Operations</h2>
+  <h2>🚀 FEATURED OPERATIONS &amp; REPOSITORIES</h2>
 
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| 🛡️ **Kaggriculture** | Intelligent Data & Agriculture ML Solutions | `Python` `Pandas` `Scikit-Learn` | 🟢 Active |
-| ⚡ **Core System Architecture** | High-throughput backend services & microservices | `Node.js` `FastAPI` `PostgreSQL` | 🟢 Active |
-| 🌐 **Modern Web Ecosystems** | Dynamic, highly animated web platforms | `React` `Next.js` `TailwindCSS` | 🟢 Active |
+  <table width="100%" border="1" bordercolor="#ffffff">
+    <tr>
+      <td style="background-color: #000000; border: 1.5px solid #ffffff; border-radius: 6px; padding: 20px; text-align: left;">
+        <h3 style="color: #ffffff; margin-top: 0;">🛡️ KAGGRLICULTURE — SMART AGRO ANALYTICS</h3>
+        <p style="color: #cccccc;">
+          High-performance machine learning suite and data pipeline for precision crop recommendation, soil disease analysis, and yield optimization models.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"/>
+          <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=ffffff" alt="Pandas"/>
+          <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=ffffff" alt="Scikit-Learn"/>
+          <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=ffffff" alt="Streamlit"/>
+        </p>
+        <p>
+          <a href="https://github.com/lihasignad/Kaggriculture" target="_blank">
+            <img src="https://img.shields.io/badge/📂_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repository"/>
+          </a>
+          <a href="https://github.com/lihasignad" target="_blank">
+            <img src="https://img.shields.io/badge/⚡_LIVE_DEMO-ffffff?style=for-the-badge&color=ffffff&labelColor=000000" alt="Demo"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 <br/>
 
-<!-- Animated Glowing Divider -->
+<!-- Manga Inked Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
+</p>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                 ⚔️ DEVELOPER MANGA COMIC STRIP               -->
+<!-- ============================================================ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Divider" width="100%"/>
+  <h2>📜 DEV CHRONICLES // THE 80,000 LINE TYPO</h2>
+
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/manga-panel.jpg" width="100%" alt="Developer Manga Comic Panel - Eren Yeager Merge Request" style="border-radius: 6px; border: 2px solid #ffffff; box-shadow: 0 10px 30px rgba(0,0,0,0.95);" />
 </div>
+
+<br/>
+
+<!-- Manga Inked Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/divider.svg" width="90%" alt="Divider"/>
+</p>
 
 <br/>
 
@@ -205,14 +268,12 @@
 <!--                       FOOTER & VISITOR STATS                 -->
 <!-- ============================================================ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lihasignad&label=Terminal%20Visits&color=00f0ff&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lihasignad&label=TERMINAL%20VISITS&color=000000&style=for-the-badge" alt="Profile Views" />
 
   <br/><br/>
 
   <p align="center">
-    <i>"Never look back. The mission is ahead."</i> ⚡<br/>
-    <sub>Developed &amp; Maintained by <b>Sahil Dangi</b> (<a href="https://github.com/lihasignad">@lihasignad</a>)</sub>
+    <i>"Never look back. The mission is ahead."</i><br/>
+    <sub><b>Sahil Dangi</b> // <a href="https://github.com/lihasignad">@lihasignad</a></sub>
   </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=120&section=footer" width="100%" alt="Footer Wave"/>
 </div>
