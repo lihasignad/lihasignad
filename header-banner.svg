@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="100%" height="100%">
+  <defs>
+    <!-- Monochrome Gradients -->
+    <linearGradient id="manga-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="50%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+
+    <!-- Halftone Screentone Pattern -->
+    <pattern id="screentone" width="6" height="6" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1" fill="#ffffff" fill-opacity="0.12"/>
+    </pattern>
+
+    <pattern id="heavy-screentone" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="2.2" fill="#ffffff" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1000" height="320" rx="12" fill="url(#manga-bg)"/>
+  
+  <!-- Screentone Overlays -->
+  <rect width="1000" height="320" rx="12" fill="url(#screentone)"/>
+  <rect x="0" y="240" width="1000" height="80" fill="url(#heavy-screentone)"/>
+  
+  <!-- Dynamic Speedlines Background -->
+  <g stroke="#ffffff" stroke-width="0.75" opacity="0.15">
+    <line x1="0" y1="0" x2="350" y2="160"/>
+    <line x1="0" y1="80" x2="380" y2="160"/>
+    <line x1="0" y1="160" x2="320" y2="160"/>
+    <line x1="0" y1="240" x2="380" y2="160"/>
+    <line x1="0" y1="320" x2="350" y2="160"/>
+    <line x1="1000" y1="0" x2="650" y2="160"/>
+    <line x1="1000" y1="80" x2="620" y2="160"/>
+    <line x1="1000" y1="160" x2="680" y2="160"/>
+    <line x1="1000" y1="240" x2="620" y2="160"/>
+    <line x1="1000" y1="320" x2="650" y2="160"/>
+  </g>
+
+  <!-- Comic Panel Borders -->
+  <rect x="12" y="12" width="976" height="296" rx="8" fill="none" stroke="#ffffff" stroke-width="2.5"/>
+  <rect x="18" y="18" width="964" height="284" rx="6" fill="none" stroke="#ffffff" stroke-width="1" stroke-dasharray="8 6" opacity="0.6"/>
+
+  <!-- Top Metadata Bar -->
+  <g font-family="'Courier New', monospace" font-weight="700" font-size="11" fill="#ffffff" letter-spacing="2">
+    <text x="35" y="42">DEV // FULL-STACK ENGINEER</text>
+    <text x="500" y="42" text-anchor="middle">⚡ OPEN SOURCE &amp; SYSTEM DESIGN ⚡</text>
+    <text x="965" y="42" text-anchor="end">STATUS: ACTIVE</text>
+  </g>
+  <line x1="35" y1="50" x2="965" y2="50" stroke="#ffffff" stroke-width="1.5"/>
+
+  <!-- Japanese Manga Watermark 「進撃」 -->
+  <g font-family="'Noto Sans JP', 'Hiragino Mincho ProN', 'Yu Mincho', serif" font-size="110" font-weight="900" fill="#ffffff" opacity="0.06" text-anchor="middle">
+    <text x="500" y="210">進撃の巨人</text>
+  </g>
+
+  <!-- Central Header Text -->
+  <g text-anchor="middle">
+    <!-- Subtitle Banner Tag -->
+    <rect x="370" y="76" width="260" height="28" fill="#ffffff"/>
+    <text x="500" y="95" font-family="'Arial Black', Impact, sans-serif" font-size="12" font-weight="900" fill="#000000" letter-spacing="3">
+      ✦ DEVELOPER PORTFOLIO ✦
+    </text>
+
+    <!-- Main Stylized Name -->
+    <text x="500" y="176" font-family="'Impact', 'Arial Black', -apple-system, sans-serif" font-size="68" font-weight="900" fill="#ffffff" letter-spacing="6" stroke="#000000" stroke-width="2">
+      SAHIL DANGI
+    </text>
+
+    <!-- Handle & Roles in Manga Subtext -->
+    <text x="500" y="218" font-family="'Courier New', monospace" font-size="17" font-weight="900" fill="#ffffff" letter-spacing="5">
+      // @lihasignad //
+    </text>
+
+    <text x="500" y="250" font-family="'Courier New', monospace" font-size="13" font-weight="600" fill="#bbbbbb" letter-spacing="3">
+      SOFTWARE DEVELOPMENT ✦ MACHINE LEARNING ✦ DISTRIBUTED SYSTEMS
+    </text>
+  </g>
+
+  <!-- Bottom Accent Heavy Inked Line -->
+  <line x1="100" y1="278" x2="900" y2="278" stroke="#ffffff" stroke-width="2.5"/>
+  <polygon points="500,270 510,278 500,286 490,278" fill="#ffffff"/>
+</svg>
