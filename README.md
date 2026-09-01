@@ -4,17 +4,12 @@
 <!--              Username: lihasignad (Sahil Dangi)              -->
 <!-- ============================================================ -->
 
-<!-- 1. TOP ANIMATED VIDEO / HEADER BANNER (AUTOPLAYING GIF) -->
+<!-- 1. TOP ANIMATED HEADER (EREN YEAGER OBTAINING FREEDOM GIF) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lihasignad/lihasignad/main/NMRL.gif" width="100%" alt="Header Video Animation" />
+  <img src="https://media1.tenor.com/m/ducgZ6doiKEAAAAC/osisbbsbsbsbsbsbbsbs-obtaining-freedom.gif" width="100%" alt="Eren Yeager Obtaining Freedom Animation" />
 </p>
 
-<!-- 2. DYNAMIC TYPING INTRODUCTION -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=進撃+|+Keep+moving+forward+until+all+goals+are+met;Full-Stack+Engineer+%7C+Problem+Solver;Building+Scalable+Web+Apps+%26+ML+Pipelines;Exploring+Cloud+Architecture+%26+Systems" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <p align="center">
   <b>「 心臓を捧げよ 」</b><br/>
