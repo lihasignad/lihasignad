@@ -290,15 +290,15 @@
 <div align="center">
   <h2>✦ TELEMETRY &amp; STATS ✦</h2>
 
-  <!-- Stats & Streak in High-Contrast Monochrome Dark Theme -->
+  <!-- Streak Stats & Profile Overview (High-Contrast Monochrome) -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lihasignad&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=e0e0e0&border_color=ffffff" height="175" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lihasignad&theme=dark&hide_border=false&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=ffffff" height="175" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lihasignad&theme=dark&hide_border=false&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=ffffff" height="185" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lihasignad&theme=github_dark" height="185" alt="Profile Details" />
   </p>
 
   <br/>
 
-  <!-- Competitive Programming Telemetry Cards -->
+  <!-- Competitive Programming Telemetry Cards (9lycantropeee) -->
   <p align="center">
     <a href="https://leetcode.com/u/9lycantropeee/" target="_blank">
       <img src="https://leetcard.jacoblin.cool/9lycantropeee?theme=dark&font=Fira%20Code&ext=heatmap&border=1&radius=6" height="185" alt="LeetCode Stats" />
@@ -308,10 +308,12 @@
     </a>
   </p>
 
-  <!-- Top Languages & Trophies in Monochrome -->
+  <br/>
+
+  <!-- Language Donut Analytics (From Madhav Architecture) -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihasignad&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=e0e0e0&border_color=ffffff" height="175" alt="Top Languages" />
-    <img src="https://github-profile-trophy.vercel.app/?username=lihasignad&theme=darkhub&no-frame=false&margin_w=4" height="175" alt="GitHub Trophies" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lihasignad&theme=github_dark" height="185" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lihasignad&theme=github_dark" height="185" alt="Most Commit Language" />
   </p>
 </div>
 
